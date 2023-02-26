@@ -1,3 +1,4 @@
+/*
 PARCIJALNI 2021/2022 - medijan deka
 
 Neka je dat slijed brojeva , , ..., koji se sastoji od neparnog broja elemenata (tj. n je neparan
@@ -11,8 +12,9 @@ koristi pomoćne kontejnerske tipove podataka. Možete pretpostaviti da će dek 
 elemenata (i tu pretpostavku ne trebate provjeravati u funkciji). Međutim, trebate odgovoriti na
 pitanje šta će Vaša funkcija (koju ste napisali) vratiti kao rezultat ukoliko joj se ponudi dek koji ima
 paran broj elemenata (odgovor na ovo pitanje nosi 0.5 poena).
+*/
 
-RJEŠENJE :
+// RJEŠENJE :
 
 #include <iostream>
 #include <vector>

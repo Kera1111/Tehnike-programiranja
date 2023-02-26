@@ -1,3 +1,4 @@
+/*
 PARCIJALNI 2021/2022 - zajednicki elementi genericka fja dva vektora istog tipa
 
 Napišite generičku funkciju “ZajednickiElementi” koja prima dva parametra koji su vektori sa
@@ -8,8 +9,9 @@ koji je vraćen kao rezultat iz funkcije svi elementi treba da budu različiti (
 ponavljaju ne treba prepisivati više puta). Poredak brojeva pohranjenih u rezultatu nije bitan.
 Napisanu funkciju demonstrirajte na isječku programa u kojem se nalazi presjek dva vektora čiji su
 elementi stringovi, sa fiksno zadanim sadržajem (po vlastitom izboru).
+*/
 
-RJEŠENJE :
+// RJEŠENJE :
 
 #include <iostream>
 #include <vector>

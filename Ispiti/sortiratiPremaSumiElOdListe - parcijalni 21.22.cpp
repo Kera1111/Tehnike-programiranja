@@ -1,3 +1,4 @@
+/*
 PARCIJALNI 2021/2022 sortirati vektor po sumi elemenata u listama rastuci
 
 Neka je “v” neki vektor čiji su elementi liste cijelih brojeva (tj. tipa “std::vector<std::list<int>>”).
@@ -7,8 +8,9 @@ elemenata u listama, tj. tako da u njemu liste sa manjom sumom elemenata dolaze 
 sumom elemenata (elementi unutar svake od listi ostaju u istom redoslijedu u kakvom su bili i prije
 sotriranja). Po obavljenom sortiranju, treba ispisati sortirani vektor tako da se svaka lista ispisuje u
 posebnom redu, pri čemu se elementi unutar jedne liste međusobno razdvajaju jednim razmakom.
+*/
 
-RJEŠENJE:
+// RJEŠENJE:
 
 #include <iostream>
 #include <vector>

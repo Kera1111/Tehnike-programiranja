@@ -1,3 +1,4 @@
+/*
 PARCIJALNI 2021/2022 PopuniPoKriteriju(p1,p2,p3,p4,f) 
 
 Napišite generičku funkciju “PopuniPoKriteriju” koja prihvata pet parametara , , , i f.
@@ -14,8 +15,9 @@ gdje se sa tastature unosi neki vektor cijelih brojeva, a zatim se pozivom napis
 neki dek kvadratima elemenata tog vektora, ali u obrnutom poretku elemenata. Na primjer, za
 elemente vektora 1, 2 i 3, kreirani dek treba redom da sadrži 9, 4 i 1 (kao rezultat funkcije vraća se 6).
 Korištenje umetača je dozvoljeno i poželjno.
+*/
 
-RJEŠENJE: 
+// RJEŠENJE: 
 
 #include <iostream>
 #include <vector>

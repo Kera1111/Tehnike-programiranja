@@ -1,6 +1,6 @@
-PARCIJALNI 2021/2022 - koje su greške u programu
+//PARCIJALNI 2021/2022 - koje su greške u programu
 
-RJEŠENJE :
+// RJEŠENJE :
 
 #include <iostream>
 #include <vector>

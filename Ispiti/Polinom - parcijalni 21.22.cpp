@@ -1,3 +1,4 @@
+/*
 PARCIJALNI 2021/2022 - polinom
 
 Napravite funkciju “Polinom” koja kao parametar prima vektor realnih brojeva koji predstavljaju
@@ -8,8 +9,9 @@ funkcije. Na primjer, isječak programa
 auto poli = Polinom({2, 3, 0, −1, 4});
 std::cout << poli(5);
 treba da ispiše broj 2392, jer je 2 + 3 ∙ 5 + 0 ∙ 5 − 1 ∙ 5 + 4 ∙ 5 = 2392.
+*/
 
-RJEŠENJE :
+// RJEŠENJE :
 
 #include <iostream>
 #include <vector>

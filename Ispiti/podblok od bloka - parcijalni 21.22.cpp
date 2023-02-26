@@ -1,3 +1,4 @@
+/*
 PARCIJALNI 2021/2022 - podblok od bloka 
 
 Napišite generičku funkciju koja prima 4 parametra od kojih prva dva omeđuju jedan blok podataka a
@@ -10,8 +11,9 @@ Ukoliko se traženi blok nalazi na više mjesta kao podblok u prvom bloku, treba
 prvog pronalaska. Konačno, ukoliko traženi blok nije nađen kao podblok u prvom bloku, treba vratiti
 pokazivač/iterator koji pokazuje tačno iza kraja prvog bloka. Napišite i kratki isječak programa u
 kojem ćete demonstrirati kako se koristi napisana funkcija na dva fiksna niza stringova.
+*/
 
-RJEŠENJE :
+// RJEŠENJE :
 
 #include <iostream>
 #include <vector>

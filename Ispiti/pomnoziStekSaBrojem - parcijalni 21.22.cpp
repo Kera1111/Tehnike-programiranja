@@ -1,3 +1,4 @@
+/*
 PARCIJALNI 2021/2022 - pomnozi stek sa brojem 
 
 Napišite funkciju koja kao jedan parametar prima neki stek realnih brojeva, a kao drugi parametar 
@@ -10,8 +11,9 @@ Podsjetimo se da je stek kontejnerska struktura koja ne podržava ništa drugo o
 sa vrha steka), “size” (daj broj elemenata u steku) i “empty” (daj informaciju da li je stek prazan ili 
 ne). Za realizaciju ove funkcije ne smijete koristiti nikakvu pomoćnu funkciju, osim eventualno 
 jednog pomoćnog steka ukoliko smatrate da Vam je potreban
+*/
 
-RJEŠENJE :
+// RJEŠENJE :
 
 #include <stack>
 #include <iostream>

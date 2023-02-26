@@ -1,3 +1,4 @@
+/*
 PARCIJALNI 2021/2022 - sortiraj recenice u abecednom poretku
 
 Napišite program koji traži od korisnika da unese niz rečenica, pri čemu se broj rečenica prethodno
@@ -5,8 +6,9 @@ unosi sa tastature. Za svaku unesenu rečenicu dinamički alocirajte prostor, uz
 adresi svake alocirane rečenice u dinamičkom nizu pokazivača na početke svake od rečenica. Nakon
 toga, treba ispisati unesene rečenice sortirane u abecedni poredak (tačnije rečeno, u rastući poredak
 po ASCII kodovima). Za sortiranje koristite funkciju “sort” uz pogodno definiranu funkciju kriterija.
+*/
 
-RJEŠENJE :
+// RJEŠENJE :
 
 #include <iostream>
 #include <algorithm>

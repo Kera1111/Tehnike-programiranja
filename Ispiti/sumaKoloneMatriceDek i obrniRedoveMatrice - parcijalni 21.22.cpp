@@ -1,3 +1,4 @@
+/*
 PARCIJALNI 2021/2022 suma kolone matrice smjesti kao elemente deka i obrni redove u matrici
 
 Napišite funkciju koja kao parametar prihvata matricu organiziranu kao vektor vektōrâ realnog tipa
@@ -10,8 +11,9 @@ putem transformacije odgovarajućeg parametra, funkcija kao rezultat treba vrati
 element suma i-te kolone matrice. Za realizaciju funkcije nije dozvoljeno koristiti nikakve pomoćne
 kontejnerske tipove podataka. Napišite i kratki isječak programa koji ilustrira kako se koristi napisana
 funkcija (uključujući i hvatanje eventualno bačenog izuzetka).
+*/
 
-RJEŠENJE:
+// RJEŠENJE:
 
 #include <iostream>
 #include <vector>

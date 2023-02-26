@@ -1,6 +1,6 @@
-PARCIJALNI 2021/2022 - ispis
+// PARCIJALNI 2021/2022 - ispis
 
-RJEŠENJE :
+// RJEŠENJE :
 
 #include <iostream>
 #include <algorithm>

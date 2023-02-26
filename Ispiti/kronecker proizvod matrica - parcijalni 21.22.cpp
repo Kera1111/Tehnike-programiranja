@@ -1,3 +1,4 @@
+/*
 PARCIJALNI 2021/2022 - kronecker genericki
 
 Kroneckerov (ili tenzorski) proizvod dva vektora i (u matematičkom smilslu) čiji su koeficijenti
@@ -20,8 +21,9 @@ izuzetak tipa “logic_error” uz prateći tekst “Alokacija nije uspjela”. 
 curenje memorije ni pod kakvim okolnostima. Demonstrirajte napisanu funkciju u isječku programa
 u kojem ćete kreirati Kroneckerov proizvod dva fiksna vektora cijelih brojeva, ispisati elemente
 kreiranog Kroneckerovog proizvoda na ekran, i na kraju osloboditi svu alociranu memoriju.
+*/
 
-RJEŠENJE :
+// RJEŠENJE :
 
 #include <iostream>
 #include <deque>

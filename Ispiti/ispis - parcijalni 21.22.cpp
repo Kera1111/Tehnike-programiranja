@@ -1,4 +1,4 @@
-PARCIJALNI 2021/2022 - ispis
+// PARCIJALNI 2021/2022 - ispis
 
 #include <iostream>
 #include <vector>

@@ -1,3 +1,4 @@
+/*
 PARCIJALNI 2021/2022 iz vektora ubaci u novi rezultantni vektor sve kubove brojeva
 
 Napišite funkciju koja prihvata vektor cijelih brojeva (tipa "int"), a koja kao rezultat vraća vektor
@@ -10,8 +11,9 @@ negativan, treba baciti izuzetak tipa "domain_error" sa proizvoljnim tekstom. Na
 programa u kojem ćete testirati napisanu funkciju sa fiksnim vektorom od 10 proizvoljnih elemenata
 tipa "int", pri čemu ćete ispisati elemente vraćenog vektora odvojene razmakom. Obavezno predvidite
 hvatanje eventualno bačenih izuzetaka.
+*/
 
-RJEŠENJE:
+// RJEŠENJE:
 
 #include <iostream>
 #include <vector>

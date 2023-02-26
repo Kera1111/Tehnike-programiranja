@@ -1,3 +1,4 @@
+/*
 PARCIJALNI 2021/2022 - iterirana funkcija
 
 Napišite funkciju “IteriranaFunkcija” koja kao parametar prima neku funkciju f koja prima cijeli
@@ -10,8 +11,9 @@ cjelobrojnu vrijednost, tada izraz “IteriranaFunkcija(f, 5)(2)” treba da pro
 izraz “f(f(f(f(f(2)))))”. Napisanu funkciju iskoristite u programu u kojem ćete izračunati koliko
 iznosi vrijednost izraza f(f(f(f(f(f(0)))))) za funkciju f(x) = 3 x −5, ali da pri tome ne kreirate
 nikakvu imenovanu funkciju.
+*/
 
-RJEŠENJE : 
+// RJEŠENJE : 
 
 #include <iostream>
 #include <functional>

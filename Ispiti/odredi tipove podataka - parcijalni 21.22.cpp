@@ -1,3 +1,4 @@
+/*
 PARCIJALNI 2021/2022 - odredi tipove podataka 
 
 Data je generička funkcija
@@ -6,8 +7,9 @@ auto F(NekiTip t) -> decltype(&t) {
 return new NekiTip(t);
 }
 Odredite kojeg će tipa biti varijabla “x” u svakoj od sljedećih deklaracija:
+*/
 
-RJEŠENJE :
+// RJEŠENJE :
 
 #include <iostream>
 #include <vector>
